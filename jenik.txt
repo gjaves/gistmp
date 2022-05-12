@@ -3,3 +3,5 @@ choco install python --version 3.10.4 -y
 choco install dotnetfx --version 4.8.0.20190930 -y
 choco install vlc --version 3.0.17.4 -y
 choco install googlechrome --version 101.0.4951.64 -y
+choco install chocolatey -y
+choco upgrade chocolatey -y
